@@ -72,16 +72,8 @@ Scenario: Show comments
 	Given that I access the homepage
 	Then the home page should return comments
 	And each comment should show the username
-	And each comment should show the date of the comment
 	And each comment should show the comment body
 	And each comment should show the like count
-```
-
-```
-Scenario: Order comments by newest
-	Given that I click the Newest button in the comments area
-	Then then the comments should display in order of date
-	And the comments should show most recent first
 ```
 
 ```
