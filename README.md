@@ -19,7 +19,7 @@ Some basic front-end tooling ([webpack](https://webpack.js.org/) for JavaScript 
 
 Your code should work in modern browsers such as Chrome, Firefox and Edge. Do not worry about supporting IE11 or below.
 
-You should spend around two hours on this task. If you do not complete the task in time please submit with a list of what you would have done with more time. Feel free to be specific and write `// TODO`s throughout your code.
+You should spend around one and a half hours on this task. If you do not complete the task in time please submit with a list of what you would have done with more time. Feel free to be specific and write `// TODO`s throughout your code.
 
 ### :mega: Requirements
 
